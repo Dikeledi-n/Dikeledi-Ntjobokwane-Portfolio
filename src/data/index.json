@@ -1,0 +1,57 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/html-5-logo-svgrepo-com.png"
+    },
+    {
+      "id": "2",
+      "src": "./img/css-3-svgrepo-com.png"
+    },
+    {
+      "id": "3",
+      "src": "./img/javascript-svgrepo-com.png"
+    },
+    {
+      "id": "4",
+      "src": "./img/react-logo-svgrepo-com.png"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/Netflix-landing-page.png",
+      "title": "Netflix Landing Page",
+      "description": "My very first project. A faithful recreation of the Netflix homepage, showcasing my proficiency in HTML and CSS.",
+      "link": "https://github.com/Dikeledi-n/Netflix-landing-page.git"
+    },
+    {
+      "id": "2",
+      "src": "./img/Youtube landing page.png",
+      "title": "Youtube Landing Page",
+      "description": "Recreated the YouTube homepage to showcase my HTML and CSS skills, demonstrating attention to detail and ability to replicate a complex design.",
+      "link": "https://github.com/Dikeledi-n/Youtube-landing-page.git"
+    },
+    {
+      "id": "3",
+      "src": "./img/Google keep react.png",
+      "title": "Google Keep React",
+      "description": "Built a simplified version of the Google Keep note-taking app using React and JavaScript, showcasing my ability to create interactive and dynamic user interfaces. Implemented key features such as note creation, editing, and deletion, while demonstrating proficiency in React components, state management, and JavaScript syntax.",
+      "link": "https://github.com/Dikeledi-n/Google-keep-react-app.git"
+    },
+    {
+      "id": "4",
+      "src": "./img/Amazon clone.png",
+      "title": "Amazon Clone",
+      "description":"Developed a fully functional Amazon clone using React, React Routing, and Stripe, demonstrating expertise in building complex e-commerce applications. The project features user authentication, product catalog management, shopping cart and checkout functionality, and seamless payment processing with Stripe integration. It showcases advanced React and JavaScript skills, experience with React Routing, and secure payment processing best practices, highlighting my ability to build scalable and complex applications with ease.",
+      "link": "https://github.com/Dikeledi-n/amazone-clone.git"
+    },
+    {
+      "id": "5",
+      "src": "./img/Tic-tac-toe.png",
+      "title": "Tic-Tac-Toe Game",
+      "description": "Developed an interactive Tic-Tac-Toe game using React, demonstrating my ability to create engaging user interfaces and manage game logic with JavaScript. The project features a responsive design, alternate player turns with win/loss detection, reset game functionality, and a minimalist design, showcasing my proficiency in React, component-based architecture, and state management",
+      "link": "https://github.com/Dikeledi-n/Tic-tac-toe.git"
+    }
+  ]
+}
