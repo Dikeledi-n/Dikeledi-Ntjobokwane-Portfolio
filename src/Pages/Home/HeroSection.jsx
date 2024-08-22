@@ -1,7 +1,6 @@
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
-      <div className="hero--section--content--box">
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm Dikeledi</p>
           <h1 className="hero--section--title">
@@ -12,10 +11,8 @@ export default function HeroSection() {
           With a strong foundation in HTML, CSS, and JavaScript, I expertly balance functionality and aesthetics to create seamless interactions and stunning visuals.
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
-      </div>
       <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
+        <img src="./img/IMG_5870.jpg" alt="Hero Section" />
       </div>
     </section>
   );

@@ -2,19 +2,19 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/html-5-logo-svgrepo-com.png"
+      "src": "./img/294678_html5_icon.png"
     },
     {
       "id": "2",
-      "src": "./img/css-3-svgrepo-com.png"
+      "src": "./img/652581_code_command_develop_javascript_language_icon.png"
     },
     {
       "id": "3",
-      "src": "./img/javascript-svgrepo-com.png"
+      "src": "./img/294692_css3_icon.png"
     },
     {
       "id": "4",
-      "src": "./img/react-logo-svgrepo-com.png"
+      "src": "./img/7423887_react_react native_icon (1).png"
     }
   ],
   "portfolio": [
@@ -30,7 +30,7 @@
       "src": "./img/Youtube landing page.png",
       "title": "Youtube Landing Page",
       "description": "Recreated the YouTube homepage to showcase my HTML and CSS skills, demonstrating attention to detail and ability to replicate a complex design.",
-      "link": "https://github.com/Dikeledi-n/Youtube-landing-page.git"
+      "link": "https://github.com/Dikeledi-n/Netflix-landing-page.git"
     },
     {
       "id": "3",
